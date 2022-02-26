@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 725275328e8fda84eb6e285a33a4b935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8174711406697140704
+    second: sprFood_stripInfinity_0
+  - first:
+      213: 6048019262358985476
+    second: sprFood_stripInfinity_1
+  - first:
+      213: 2439520876162865024
+    second: sprFood_stripInfinity_2
+  - first:
+      213: 8781471048584678567
+    second: sprFood_stripInfinity_3
+  - first:
+      213: -6137145922070904632
+    second: sprFood_stripInfinity_4
+  - first:
+      213: -8063223058315521280
+    second: sprFood_stripInfinity_5
+  - first:
+      213: 8885858263892193050
+    second: sprFood_stripInfinity_6
+  - first:
+      213: 6952527368153653667
+    second: sprFood_stripInfinity_7
+  - first:
+      213: 8386119746666062003
+    second: sprFood_stripInfinity_8
+  - first:
+      213: 357729060824716519
+    second: sprFood_stripInfinity_9
+  - first:
+      213: -5998620247913842657
+    second: sprFood_stripInfinity_10
+  - first:
+      213: -2405492265439343505
+    second: sprFood_stripInfinity_11
+  - first:
+      213: -5197844967187574259
+    second: sprFood_stripInfinity_12
+  - first:
+      213: 2220609482369463373
+    second: sprFood_stripInfinity_13
+  - first:
+      213: 6398651296994978849
+    second: sprFood_stripInfinity_14
+  - first:
+      213: 3793651759652698730
+    second: sprFood_stripInfinity_15
+  - first:
+      213: -6315168115391679061
+    second: sprFood_stripInfinity_16
+  - first:
+      213: -5256777688491708153
+    second: sprFood_stripInfinity_17
+  - first:
+      213: 8579934398512172944
+    second: sprFood_stripInfinity_18
+  - first:
+      213: 4551725047399505637
+    second: sprFood_stripInfinity_19
+  - first:
+      213: -6633544883685435487
+    second: sprFood_stripInfinity_20
+  - first:
+      213: 7606547511366866850
+    second: sprFood_stripInfinity_21
+  - first:
+      213: -2495812340064006699
+    second: sprFood_stripInfinity_22
+  - first:
+      213: -4681105781920805030
+    second: sprFood_stripInfinity_23
+  - first:
+      213: -7916221290091411519
+    second: sprFood_stripInfinity_24
+  - first:
+      213: -7142757277420565055
+    second: sprFood_stripInfinity_25
+  - first:
+      213: 1814706926713102353
+    second: sprFood_stripInfinity_26
+  - first:
+      213: 728600134251657358
+    second: sprFood_stripInfinity_27
+  - first:
+      213: 1786686155165717766
+    second: sprFood_stripInfinity_28
+  - first:
+      213: -874703790842406221
+    second: sprFood_stripInfinity_29
+  - first:
+      213: -2650015625182854629
+    second: sprFood_stripInfinity_30
+  - first:
+      213: 5459816895861253643
+    second: sprFood_stripInfinity_31
+  - first:
+      213: -5745417214944029164
+    second: sprFood_stripInfinity_32
+  - first:
+      213: 9198668572807675587
+    second: sprFood_stripInfinity_33
+  - first:
+      213: -2821840537918397474
+    second: sprFood_stripInfinity_34
+  - first:
+      213: -412538761307244446
+    second: sprFood_stripInfinity_35
+  - first:
+      213: 5660037737276678908
+    second: sprFood_stripInfinity_36
+  - first:
+      213: 6758676668817651194
+    second: sprFood_stripInfinity_37
+  - first:
+      213: -4544214990876079126
+    second: sprFood_stripInfinity_38
+  - first:
+      213: -1727315182872869821
+    second: sprFood_stripInfinity_39
+  - first:
+      213: 141807109621015773
+    second: sprFood_stripInfinity_40
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 80
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eab7e79479d8e80800000000000000
+      internalID: -8174711406697140704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b90afa971eee350800000000000000
+      internalID: 6048019262358985476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 79
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08756ddcf4bead120800000000000000
+      internalID: 2439520876162865024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4448746d0ed970800000000000000
+      internalID: 8781471048584678567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 82
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00a34cc4a74daa0800000000000000
+      internalID: -6137145922070904632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0035d58695da91090800000000000000
+      internalID: -8063223058315521280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 80
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f63cff209e05b70800000000000000
+      internalID: 8885858263892193050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 81
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1eaf52ec65c7060800000000000000
+      internalID: 6952527368153653667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 78
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b06bef5a7b716470800000000000000
+      internalID: 8386119746666062003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_9
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 82
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e49a4c7fa8e6f400800000000000000
+      internalID: 357729060824716519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 81
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1831a4aaae90cca0800000000000000
+      internalID: -5998620247913842657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cc9888789fd9ed0800000000000000
+      internalID: -2405492265439343505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 71
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d029b3daa8b8dd7b0800000000000000
+      internalID: -5197844967187574259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 71
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44fe751f8031de10800000000000000
+      internalID: 2220609482369463373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 71
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c6afef3739cc850800000000000000
+      internalID: 6398651296994978849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 68
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a72affc22c5a430800000000000000
+      internalID: 3793651759652698730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5b439ee040c58a0800000000000000
+      internalID: -6315168115391679061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 71
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b04e3b8c2c07b0800000000000000
+      internalID: -5256777688491708153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_18
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 55
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f097380ec021770800000000000000
+      internalID: 8579934398512172944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eede7580d9fa2f30800000000000000
+      internalID: 4551725047399505637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 61
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d156031ae0f3a0800000000000000
+      internalID: -6633544883685435487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 49
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7572e09a2ef8960800000000000000
+      internalID: 7606547511366866850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 50
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddc27c66e71d5dd0800000000000000
+      internalID: -2495812340064006699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 51
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4598c71f590fb0800000000000000
+      internalID: -4681105781920805030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_24
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 58
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c787b8bdaee32290800000000000000
+      internalID: -7916221290091411519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 52
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdc282a914dfdc90800000000000000
+      internalID: -7142757277420565055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 60
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110ec2ac5522f2910800000000000000
+      internalID: 1814706926713102353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 58
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883f5936f18c1a00800000000000000
+      internalID: 728600134251657358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d2c387959bc810800000000000000
+      internalID: 1786686155165717766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 55
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba962f598d6cd3f0800000000000000
+      internalID: -874703790842406221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 41
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12cdbb44d0493bd0800000000000000
+      internalID: -2650015625182854629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b066c781a8a25cb40800000000000000
+      internalID: 5459816895861253643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 33
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d8d8cb7d2440b0800000000000000
+      internalID: -5745417214944029164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 33
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce30c0945c38af70800000000000000
+      internalID: 9198668572807675587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 32
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3a3944bfec6d8d0800000000000000
+      internalID: -2821840537918397474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b33cae2e564af0800000000000000
+      internalID: -412538761307244446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2aea9755e7c8e40800000000000000
+      internalID: 5660037737276678908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_37
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5b89c0f94abcd50800000000000000
+      internalID: 6758676668817651194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb83d5ca84bfe0c0800000000000000
+      internalID: -4544214990876079126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_39
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 9
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34449bd2ef75708e0800000000000000
+      internalID: -1727315182872869821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprFood_stripInfinity_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4e59b90dcc7f100800000000000000
+      internalID: 141807109621015773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
