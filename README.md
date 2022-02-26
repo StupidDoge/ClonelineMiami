@@ -1,2 +1,2 @@
 # ClonelineMiami
-Better version of my first serios (in some way) project - PolyHell. 
+Better version of my first serious (in a sense) project - PolyHell. 
